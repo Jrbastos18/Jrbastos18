@@ -28,10 +28,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,java,py,html,css,mysql,idea,c,sqlite,&perline=14" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jrbastos18&layout=compact&hide_border=true&theme=highcontrast"><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jrbastos18&theme=highcontrast" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
-</p>
-
 <h2 align="center">Principais projetos:</h2>
 <div>
   <ul>
@@ -40,3 +36,11 @@
     <li><a href="https://github.com/Jrbastos18/SalesWebMvc-ASP-Net-Core">Projeto de site de vendas em ASP.NET com padrão MVC (Model-View-Controller) aprendido no curso: C# Completo - Professor Nélio Alves</a></li>
   </ul>
 </div>
+      
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jrbastos18&layout=compact&hide_border=true&theme=highcontrast"><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jrbastos18&theme=highcontrast" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p>
+
+
