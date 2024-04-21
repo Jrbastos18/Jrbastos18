@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03CA40&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Zenalvo+Junior.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03CA40&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Zenalvo+Junior.](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BE4D7&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Zenalvo+Junior.">
   </a>
 </div>
 <p align="center">
@@ -29,6 +29,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jrbastos18&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jrbastos18&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jrbastos18&layout=compact&hide_border=true&theme=highcontrast"><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jrbastos18&theme=highcontrast" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
 </p>
 
