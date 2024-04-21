@@ -23,8 +23,12 @@
 
 <br><br>
 
-<h2 align="center">Principais tecnologias (Por ordem de conehcimento):</h2>
+<h2 align="center">Principais tecnologias:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,java,py,html,css,mysql,idea,c,sqlite,&perline=14" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jrbastos18&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jrbastos18&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p>
 
