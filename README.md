@@ -16,7 +16,7 @@
     <br>
     <ul>
       <li>Estudante de Análise e Desenvolvimento de Sistemas pela UMC - Universidade de Mogi das Cruzes;</li>
-      <li>Estudando para me tornar um Backend Developer;</li>
+      <li>Estudando para me tornar um desenvolvedor Backend;</li>
       <li>Entusiasta pela tecnologia e mundo geek;</li>
       <li>Amo jogar;</li>
       <li>Amo ouvir música.</li>
