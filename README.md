@@ -33,8 +33,8 @@
 <h2 align="center">Principais projetos:</h2>
 <div>
   <ul>
-    <li><a href="https://github.com/Jrbastos18/ZenBank">ZenBank - Projeto para treinar OOP em C#, na qual criei um banco fictício. [Em progresso]<a/></li>
-    <li><a href="https://github.com/Jrbastos18/Data-Structures-and-Their-Algorithms/tree/main">Projeto Prático em C# - Livro: Estrutura de Dados e Seus Algoritmos, Szwarcfiter e Markenzon, 3ª Edição (2010). [Em progresso]</a></li>
+    <li><a href="https://github.com/Jrbastos18/Technomilho_Solutions">TECHNOMILHO SOLUTIONS - PROJETO DA DISCIPLINA DE BANCO DE DADOS [EM PROGRESSO]<a/></li>
+    <li><a href="https://github.com/Jrbastos18/Biblioteca-PSSI-M2">SISTEMA DE GERENCIAMENTO DE BIBLIOTECA - PROJETO M2 - DISCIPLINA: PROJETO DE SOFTWARE E SEGURANÇA DA INFORMAÇÃO</a></li>
     <li><a href="https://github.com/Jrbastos18/SalesWebMvc-ASP-Net-Core">Projeto de site de vendas em ASP.NET com padrão MVC (Model-View-Controller) aprendido no curso: C# Completo - Professor Nélio Alves</a></li>
   </ul>
 </div>
